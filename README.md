@@ -1,11 +1,11 @@
-# mca-2
-SIVA NAGA ANIL KUMAR KANCHARLAPALLI
-============
+
+**SIVA NAGA ANIL KUMAR KANCHARLAPALLI**
+
 
 -------------------     ----------------------------
-- Email                         anilkumar78835@gmail.com
-- Mobile                        6300923369
-- MyCountry                     India
+- Email   :                      anilkumar78835@gmail.com
+- Mobile  :                     6300923369
+- MyCountry :                    India
 -------------------     ----------------------------
 
 Education
@@ -36,9 +36,9 @@ Skills
 
 Certification
 --------------
--->Sucessfully completed **c** in Naresh i technologies in Offline Mode
--->Sucesfully completed **java** in **Nptel** in Online platform
--->Sucessfully completed **Python For Data Science** in **Nptel** in Online platform
+- Sucessfully completed **c** in Naresh i technologies in Offline Mode
+- Sucesfully completed **java** in **Nptel** in Online platform
+- Sucessfully completed **Python For Data Science** in **Nptel** in Online platform
 
 Personal Information
 ---------------------
